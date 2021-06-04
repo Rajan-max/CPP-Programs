@@ -40,7 +40,7 @@ int main()
                     }
                 }
                 else
-                    break;
+                    break; //breaking the file
             }
         }
         cout << ans << endl;
