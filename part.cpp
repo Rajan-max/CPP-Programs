@@ -37,6 +37,7 @@ int main()
             st.insert(temp);
         }
         string ans = "";
+        cout << ans << endl;
         solve(str, st, ans);
     }
 }
